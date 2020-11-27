@@ -1,0 +1,36 @@
+
+
+html, body {
+  height: 100%;
+    margin: 0;
+  padding: 0;
+  overflow: hidden;
+    
+}
+body {
+     
+    background-color: black;
+}
+
+bla {
+  margin: 0;
+  display: flex;
+    background-color: black;
+
+
+  
+}
+
+.text {
+    
+    font-family: Consolas,monaco,monospace; 
+    text-align: center;
+  font-weight: 100;
+  font-size: 28px;
+  color: #00ff00;
+     position:absolute;
+  width: 100%;
+
+  margin-top:550px;
+}
+
